@@ -59,4 +59,14 @@ This code was completed using the following steps.
 
 (9) - The key findings of the data analysis are:
 
-        - TBD 
+        - What time of day exhibits the greatest popularity?
+        
+        Answer: Beginning and end of the day.
+
+        - Which day of week gets the most search traffic?
+
+        Answer: Tuesday
+
+        - What's the lowest point for search traffic in the calendar year?
+
+        Answer: September
